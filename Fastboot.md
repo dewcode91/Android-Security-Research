@@ -260,11 +260,3 @@ When flashing custom system ROM or security updates triggers continuous reboot l
     ```
 
 ---
-
-## Interactive Explorer Application
-
-The React application running on this instance provides an interactive catalog of these commands and diagnostic wizards to assist you in learning Fastboot syntax and debugging hardware states in real-time.
-
-To use the interactive tool:
-1. Access the web sandbox environment containing this project.
-2. Search based on commands (`getvar`, `flash`, `reboot`), select commands to view detailed parameter maps, or navigate the **Interactive Troubleshooting Wizard** to get tailored advice for your specific hardware symptoms.
